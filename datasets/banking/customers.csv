@@ -1,0 +1,9 @@
+customer_id,name,age,city,segment,annual_income,join_date
+C101,Arun Sharma,34,Mumbai,Premium,850000,2019-03-15
+C102,Priya Sen,28,Delhi,Standard,1200000,2020-07-22
+C103,Rahul Das,45,Kolkata,Standard,450000,2018-11-10
+C104,Meena Iyer,52,Chennai,Premium,950000,2017-05-30
+C105,Suresh Roy,23,Pune,Basic,320000,2023-01-14
+C106,Fatima Khan,39,Hyderabad,Premium,780000,2021-09-05
+C107,Vikram Nair,31,Bangalore,Standard,1500000,2020-02-28
+C108,Deepa Menon,44,Kochi,Basic,290000,2022-06-18

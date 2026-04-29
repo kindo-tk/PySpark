@@ -1,0 +1,7 @@
+loan_id,customer_id,loan_amount,loan_type,interest_rate,status,disbursement_date
+L001,C101,500000,Home Loan,8.5,Active,2022-06-01
+L002,C103,150000,Personal Loan,12.0,Closed,2021-03-15
+L003,C104,1000000,Home Loan,8.2,Active,2023-01-10
+L004,C106,200000,Car Loan,9.5,Active,2023-07-22
+L005,C110,80000,Personal Loan,14.5,Defaulted,2020-09-30
+L006,C107,750000,Home Loan,8.0,Active,2023-11-05
