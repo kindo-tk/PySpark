@@ -1,0 +1,21 @@
+transaction_id,customer_id,name,account_type,transaction_amount,transaction_type,balance,transaction_date,branch_id,region,credit_score
+T001,C101,Arun Sharma,Savings,5000.0,Debit,45000.0,2024-01-15,B01,West,720
+T002,C102,Priya Sen,Current,15000.0,Credit,120000.0,2024-01-16,B02,North,680
+T003,C103,Rahul Das,Savings,2000.0,Debit,8000.0,2024-01-17,B03,East,590
+T004,C101,Arun Sharma,Savings,3000.0,Debit,40000.0,2024-01-18,B01,West,720
+T005,C104,Meena Iyer,Loan,25000.0,Credit,0.0,2024-01-19,B04,South,610
+T006,C105,Suresh Roy,Savings,1000.0,Debit,15000.0,2024-01-20,B05,West,640
+T007,C102,Priya Sen,Current,8000.0,Debit,135000.0,2024-01-21,B02,North,680
+T008,C106,Fatima Khan,Current,4500.0,Credit,62000.0,2024-01-22,B06,South,710
+T009,C103,Rahul Das,Savings,12000.0,Debit,9000.0,2024-01-23,B03,East,590
+T010,C107,Vikram Nair,Savings,7000.0,Credit,91000.0,2024-01-24,B07,South,755
+T011,C101,Arun Sharma,Savings,18000.0,Debit,37000.0,2024-01-25,B01,West,720
+T012,C105,Suresh Roy,Savings,2000.0,Credit,14000.0,2024-01-26,B05,West,640
+T013,C107,Vikram Nair,Savings,9000.0,Debit,98000.0,2024-01-27,B07,South,755
+T014,C106,Fatima Khan,Current,3000.0,Debit,66500.0,2024-01-28,B06,South,710
+T015,C101,Arun Sharma,Savings,6000.0,Credit,22000.0,2024-01-29,B01,West,720
+T016,C102,Priya Sen,Current,22000.0,Credit,127000.0,2024-01-30,B02,North,680
+T017,C103,Rahul Das,Savings,500.0,Debit,7500.0,2024-01-31,B03,East,590
+T018,C104,Meena Iyer,Loan,8000.0,Debit,0.0,2024-02-01,B04,South,610
+T019,C101,Arun Sharma,Savings,4000.0,Debit,18000.0,2024-02-02,B01,West,720
+T020,C102,Priya Sen,Current,5000.0,Debit,122000.0,2024-02-03,B02,North,680
